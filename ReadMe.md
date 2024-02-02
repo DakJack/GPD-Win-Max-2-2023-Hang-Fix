@@ -29,7 +29,7 @@ Advanced (Standard advanced tab)
 Advanced (Actual advance mode tab)
 - PCI Devices Common Settings
   - PCI Express Settings
-    - Relaxed Ordering: [Disabled] - This has since been reverted to Enabled, the system appears to be stable.
+    - Relaxed Ordering: [Disabled]
     - Extended Tag: [Enabled]
     - Extended Synch: [Enabled]
     - Unpopulated Links: [Disabled]
