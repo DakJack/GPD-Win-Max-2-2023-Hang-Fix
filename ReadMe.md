@@ -19,7 +19,10 @@ After unsuccessfully adjusting the CPU power settings, I decided to change sever
 Here are the configurations I modified:
 
 ```
+
 Advanced (Standard advanced tab)
+- CPU Common Options
+  - Core Performance Boost [Disabled] - This appears to cause problems for me when enabled.
 - GFX Configuration
   - iGPU Configuration: [UMA_SPECIFIED]
   - UMA Frame buffer Size: [6G]
